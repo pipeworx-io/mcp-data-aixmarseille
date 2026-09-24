@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-aixmarseille",
   "title": "Data Aixmarseille",
   "description": "Aix-Marseille-Provence Open Data (data.ampmetropole.fr) — OpenDataSoft MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-aixmarseille",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-aixmarseille",
