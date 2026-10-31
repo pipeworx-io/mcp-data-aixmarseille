@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-aixmarseille",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Aix-Marseille-Provence Open Data (data.ampmetropole.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-aixmarseille",
     "gatewaySlug": "data-aixmarseille",
-    "sourceHash": "v1-6f79220f155f0e49bdff8dd4d1377489516b28baa5f0eed2106740cea37414d7",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-8834229cc326b6a1f2d820eb1de2740989668ccc90026eefdf0dea405c29da7b",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
